@@ -2,6 +2,7 @@ package com.offcn.project.pojo;
 
 import java.io.Serializable;
 
+//就是这样啊！！
 public class TTag implements Serializable {
     private Integer id;
 
